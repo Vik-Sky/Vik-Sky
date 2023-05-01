@@ -1,6 +1,5 @@
-
-Sazhevsky Vitaliy
-Junior DevOps engineer
+Vitaliy
+Trenee DevOps engineer
 Full-time, part-time.
 Age:	38 years
 City of residence:	Kyiv
