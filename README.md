@@ -1,7 +1,7 @@
 ```
 # Vitaliy Sazhevsky
-**Address:** 32 Mitropolita Vasylia Lipkovskoho St., Kyiv, Ukraine, 03035  
-**Phone:** +380-098-110-45-10  
+**Address:**  
+**Phone:** +380-000-***-**-**  
 **Email:** vi_k@ukr.net  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sazhevsky-vitaliy-32982a6a/)
 
