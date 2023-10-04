@@ -1,53 +1,65 @@
-````
-Vitaliy
-Trenee DevOps engineer
-Full-time, part-time.
-Age:	38 years
-City of residence:	Kyiv
-Ready to work:	Kyiv, Remote
-Contact information
-Address:	Kyiv
-Phone number:	098 1234567
-Email address:	mail@ukr.net
-Social networks:
-Work experience
-ІТ Specialist
-from 06.2019 to now (3 years 11 months)
-LLC "MILK from farmer", Kyiv (Retail)
-Modernization of IT infrastructure, creation of private cloud space and migration from hosting providers. Development of a corporate network and access to services. Constant participation in projects to modernize services for retail guests and improve them.
-ІТ Specialist
-from 04.2018 to 04.2019 (1 year)
-LLC "ROZA" / BC Protasov, Kyiv (Light industry)
-IT audit of the existing system. Audit report, step-by-step plan for reorganization and modernization of the network and server pool, software update. Creating an IT department and organizing user support.
-System administrator
-from 04.2007 to 04.2018 (11 years)
-LLC "Diprozvyazok", LLC "EWG", LLC "АCCО International", LLC "RMSZ", LLC "Video life", LLC "Star Light", Kyiv (Finance, banking, and insurance)
-Before the end of the university, I started working as a system administrator and put knowledge into practice. I created computers from components, installed and configured operating systems and software. Worked with TCP/IP network and WEB, MAIL, SMB, FTP protocols and etc.. For a long time, i has setup and support of servers, support of users and services.
-• Administration workstations and servers;
-• Assembly, installation, and adjustment of workplaces;
-• Administration workstations running with OS Microsoft Windows, Linux, macOS;
-• Installing and configuring servers Microsoft Windows Server;
-• Administration software associated with the specific scope of the company;
-• Design, installation, and configuring LAN/WLAN;
-• Technical support local users and users of remote offices;
-• Providing information security management;
-• Drafting, approving and commissioning the regulation documents of the company; • Buying, installation, and registration equipment.
-Education
-EUROPEAN UNIVERSITY
-Department of Security management., Kyiv
-Higher, from 2001 to 2007 (6 years)
-Specialty - Administrative management in the direction of information protection in systems with limited access.
-Degree- Bachelor, Specialist
-Knowledge and skills
-Ansible, Git, nginx, Windows, Jenkins, Ubuntu, CentOS, Apache HTTP Server, Zabbix, DHCP, Kubernetes, IP (Internet Protocol), Active Directory, MikroTik, VPN, VMware, Continuous deployment, CI, TCP, GitHub, SQL, MS SQL Server, FTP, Grafana, VMware ESXi, Operating systems, Prometheus, IIS, 1C, MS Office, RDP, OSPF, Ubiquiti, Internet User, Firewall, L2TP, M.E.Doc, VNC, Bitrix24, TeamViewer, AnyDesk, CRM, Database, Firebird, GRE, Kerio, POS, Poster, R-Keeper, Teamwork
-Language proficiencies
-•	English ─ average
-•	Ukrainian ─ fluent
-•	Russian ─ fluent
-Additional information
-Driver license type "В"
+```
+# Vitaliy Sazhevsky
+**Address:** 32 Mitropolita Vasylia Lipkovskoho St., Kyiv, Ukraine, 03035  
+**Phone:** +380-098-110-45-10  
+**Email:** vi_k@ukr.net  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sazhevsky-vitaliy-32982a6a/)
 
-I love to receive new challenges from interesting projects, it inspires me to improve the project and gain new knowledge and skills. There is no such thing as a lot of knowledge, I quickly learn and use knowledge in practice.
-I study Linux systems and applications for DevOps Engineer.
-I want to understand how the Cloud Platform works AWS, GCP, Azure.
-````
+## OBJECTIVE
+My goal is to become a professional DevOps engineer, combining system administrator skills with automation and modern development practices. I aim to create more efficient and flexible development processes, improve application reliability and scalability, and accelerate their deployment and maintenance.
+
+## EDUCATION
+**Private University, European University, Kyiv, Ukraine**  
+*2001 - 2007*  
+- Bachelor's Degree in Information Security.
+- Specialist in Administrative Management in the Field of Information Protection in Restricted Access Systems. Faculty of Enterprise Security.
+
+## WORK EXPERIENCE
+### System Administrator, LLC "MILK from farmer," Kyiv, Ukraine *(2019 – 2023)*
+- Developed and implemented a server migration strategy to a private cloud service, resulting in cost reduction and enhanced data security.
+- Created and configured a corporate network using Mikrotik and Ubiquiti.
+- Actively participated in projects to modernize and improve services for clients. My skills as a system administrator and strategic thinker are ready to be applied as a DevOps engineer to optimize IT infrastructure.
+
+### Head of IT Department, LLC "ROZA" / BC Protasov, Kyiv, Ukraine *(2018 – 2019)*
+- Conducted IT audits to identify system issues.
+- Developed a plan for network and server reorganization and modernization from 2018 to 2019.
+- Established an IT department and organized user support.
+
+### System Administrator, LLC "Diprozvyazok," LLC "EWG," LLC "АCCО International," LLC "Star Light," Kyiv, Ukraine *(2007 – 2018)*
+- As a System Administrator, I handled the assembly, installation, and configuration of computers and Microsoft Windows servers.
+- Administered software specific to the company's operations.
+- Designed, installed, and configured local networks.
+- Provided technical support to users locally and in remote offices.
+- Ensured information security.
+
+## CERTIFICATIONS
+Online courses at prometheus.org.ua, *2022 - Present*
+- DevOps and Kubernetes Fundamentals (Practical Course) July 2023
+- Linux Fundamentals May 2023
+- Git for Distributed Software Development May 2023
+- Getting Started with ChatGPT July 2023
+
+## TECHNICAL SKILLS
+- **Operating Systems:** Windows, Unix.
+- **Software:** Ansible, Git, GitHub, Jenkins, Docker, Nginx, Apache, IIS, Zabbix, Prometheus, Grafana.
+- **Windows Server:** 2003-2019, AD, RDP, Remote APP, SQL, MS Office, and others.
+- **Private Cloud:** VMware ESXi, MikroTik CHR, OpenMediaVault, Veeam Backup.
+- **Network Equipment:** MikroTik, Ubiquiti, Asus, Tp-Link, D-Link, LinkSys - TCP/IP, DNS, DHCP, FTP, SMTP-POP3-IMAP, VPN (PPTP, L2TP), GRE, OSPF, IPSec, and other protocols.
+- **Software Applications:** 1C8, MS SQL, M.E.Doc, Firebird DB, R-Keeper 7, VNC, AnyDesk, TeamViewer, Ubiquiti Controller, ChoiceQR, POS Poster, CRM Bitrix, Trello.
+- **Video Surveillance:** Dahua, Hikvision, and others - HDCVI or IP. Access Control Systems: U Prox IP.
+
+## OTHER ACTIVITIES AND INTERESTS
+- Online English language school justschool.me, *2022 - Present*
+- Learning English with a tutor - grammar and conversational skills.
+- **Languages:**  
+  English – intermediate (A2)  
+  Ukrainian – native (C2)  
+  Russian – fluent (C1)
+
+## PERSONAL QUALITIES
+- Communicative.
+- Responsible.
+- Organized.
+- Strong troubleshooting skills.
+- Team player.
+```
