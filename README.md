@@ -36,11 +36,7 @@ LineUP (2023)
 - Identified and resolved network congestion issues and bottlenecks.
 
 **Technology Stack:**
-  - Linux
-  - UFW / TURN Server / WebRTC / IP Cam / Docker / SSH / SSL
-  - GCP / Digital Ocean
-  - Bash / Go
-  - Jira / Slack / Dickard / Trello
+  - Linux / UFW / TURN Server / WebRTC / IP Cam / Docker / SSH / SSL / GCP / Digital Ocean / Bash / Go / Jira / Slack / Dickard / Trello
 
 ### Senior System Administrator
 FARMER's MILK (2019 - 2023)
@@ -50,10 +46,7 @@ FARMER's MILK (2019 - 2023)
 - Maintained an average network uptime of 98%.
 
 **Technology Stack:**
-  - Linux
-  - Windows
-  - Mikrotik / Ubiquiti / WAN / LAN / DHCP / VLAN / WIFI / Hotspot / GRE+OSPF
-  - Backup
+  - Linux / Windows / Mikrotik / Ubiquiti / WAN / LAN / DHCP / VLAN / WIFI / Hotspot / GRE+OSPF / Data Backup
 
 ### System Administrator
 EWG/ АCCО International/ Business Park PROTASOV/ Star Light (2007 - 2019)
@@ -64,11 +57,7 @@ EWG/ АCCО International/ Business Park PROTASOV/ Star Light (2007 - 2019)
 - Managed assembly, installation, and configuration of computers and Microsoft Windows servers.
 
 **Technology Stack:**
-  - Linux
-  - Windows
-  - Asus / D-Link / TP-Link / HP / WAN / LAN / DHCP / DNS / WIFI / RDP / FTP / AD / GPO / Firewall / SMTP / POP3 / IMAP / VPN / PPTP / L2TP / SQL / VNC / Firewall
-  - Bash / PowerShell
-  - VMware / Hyper-V / VirtualBox
+  - Linux / Windows / Asus / D-Link / TP-Link / HP / WAN / LAN / DHCP / DNS / WIFI / RDP / FTP / AD / GPO / Firewall / SMTP / POP3 / IMAP / VPN / PPTP / L2TP / SQL / VNC / Firewall / Bash / PowerShell / VMware / Hyper-V / VirtualBox
 
 ## Education
 
