@@ -3,7 +3,7 @@
 - **Address:** Mississauga, Canada
 - **Phone:** +1-437-***-**
 - **Email:** v.sazhevsky@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sazhevsky-vitaliy-32982a6a/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vitalii-sazhevskyi-32982a6a/)
 
 ## Professional Summary
 
