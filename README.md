@@ -1,7 +1,7 @@
 # VITALII SAZHEVSKYI
 
 - **Address:** Mississauga, Canada
-- **Phone:** +1-437-***-**
+- **Phone:** +1-437-*-*
 - **Email:** v.sazhevsky@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vitalii-sazhevskyi-32982a6a/)
 
