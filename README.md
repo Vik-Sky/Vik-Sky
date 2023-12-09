@@ -10,6 +10,10 @@ Professional Summary
 Aspiring DevOps Engineer skilled in cloud infrastructure management, automation tools, and system optimization. Passionate about problem-solving and continuous learning, adept at collaborating across teams to streamline workflows and enhance software delivery pipelines. Committed to leveraging emerging technologies to ensure robust and scalable systems. Eager to embrace challenges, drive innovation, and make impactful contributions while nurturing a deep love for the ever-evolving tech landscape.
 
 Maine Skills
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 | Help Desk | Network Security Management | Problem-Solving |
 | ServiceDesk | Infrastructure Planning | Communication |
