@@ -11,17 +11,17 @@ Aspiring DevOps Engineer skilled in cloud infrastructure management, automation 
 
 Maine Skills
 
-| Help Desk 				            | Network Security Management 	| Problem-Solving               |
-| ServiceDesk 				          | Infrastructure Planning 		  | Communication                 |
-| Unix System Administration 		| Update Configurations 		    | Technical Support             |
-| Windows System Administration | Install Hardware 			        | Cloud Computing               |
-| Network Administration 		    | Workstation Maintenance 		  | Programming/Scripting         |
-| Data Backups 			            | New Technology Integration 	  | Cybersecurity Awareness       |
-| DevOps 				                | Virtual Machine Operation 		| Data Management               |
-| Mobile Device Management 	    | Cost Savings 			            | Project Management	          |
-| Bug Fixes 				            | Switches and Routers 		      | Virtualization                |
-| Industry Best Practices 		  | Issue and Problem Resolution 	| IT Infrastructure Management  |
-| Team player 				          | Permissions and Access Control| Collaboration Tools           |
+| Help Desk | Network Security Management | Problem-Solving |
+| ServiceDesk | Infrastructure Planning | Communication |
+| Unix System Administration | Update Configurations | Technical Support |
+| Windows System Administration | Install Hardware | Cloud Computing |
+| Network Administration | Workstation Maintenance | Programming/Scripting |
+| Data Backups | New Technology Integration | Cybersecurity Awareness |
+| DevOps | Virtual Machine Operation | Data Management |
+| Mobile Device Management | Cost Savings | Project Management |
+| Bug Fixes | Switches and Routers | Virtualization |
+| Industry Best Practices | Issue and Problem Resolution | IT Infrastructure Management |
+| Team player | Permissions and Access Control | Collaboration Tools |
 
 Work History     
   
